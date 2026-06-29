@@ -1,8 +1,5 @@
 <div align="center">
-
-# Angad Batth
 **1A Computer Science @ University of Waterloo**
-
 `AI/ML` ✦ `Competitive Programming` ✦ `Advanced Mathematics` ✦ `Aspiring Quant` ✦ `Startups`
 </div>
 
