@@ -1,7 +1,7 @@
 <div align="center">
   
 
-**1A Computer Science @ University of Waterloo**
+**1A Computer Science Student @ University of Waterloo**
   
 `AI/ML` ✦ `Competitive Programming` ✦ `Advanced Mathematics` ✦ `Aspiring Quant` ✦ `Startups`
 </div>
