@@ -1,35 +1,36 @@
 <div align="center">
 
-# 👋 Hey, I'm Angad
+# Angad Batth
+**1A Computer Science @ University of Waterloo**
 
-### 🎓 Computer Science Student @ University of Waterloo  
-### 💻 Building software • Exploring AI • Creating things that matter
-
-<br>
-
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/angad-batth1">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
+`AI / ML` ✦ `Competitive Programming` ✦ `Startups`
 
 </div>
 
----
+<br>
 
-## 🧠 About Me
+### 👨‍💻 About Me
+I'm obsessed with building things that scale and solving hard problems. I prefer technology that invites tinkering over mere consumption, whether that means diving into the Android ecosystem, building full-scale Java RPGs, or leading robotics and AI teams. 
 
-```text
-🎓 Incoming CS student at the University of Waterloo
+- 🚀 **Startups:** Heavily invested in the startup space. Previously founded **SkilledStack**, deploying and hosting web solutions for clients.
+- 🧠 **Focus:** Exploring the intersections of Machine Learning, advanced mathematics, and algorithms.
+- 🛠️ **Currently Building:** Everything from collaborative Python productivity tools to games like *Detention*. Always chasing the next build.
 
-🚀 Passionate about software engineering, AI, and building projects
+### ⚡ Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/Python-141414?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-141414?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Android-141414?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/Git-141414?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
 
-💡 Always learning, experimenting, and improving
+### 📈 Overview
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=angad-batth1&theme=transparent&hide_border=true&show_icons=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="angad-batth1 GitHub stats" height="165" />
+</div>
 
-🌱 Currently preparing for my journey in tech
+<br>
+
+<div align="center">
+  <i>"I like technology that invites me to tinker with it rather than just consume it."</i>
+</div>
