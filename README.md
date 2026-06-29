@@ -17,3 +17,7 @@ Python • Java • C++ • JavaScript
 ### Currently
 📚 Preparing for UW CS  
 ⚡ Working on personal projects
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=angad-batth1)
