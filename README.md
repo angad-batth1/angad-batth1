@@ -1,24 +1,24 @@
-<h1 align="center">Hey, I'm Angad 👋</h1>
+<h1 align="center">Hi, I'm Angad 👋</h1>
 
 <p align="center">
-Incoming Computer Science student @ University of Waterloo
+Computer Science student @ University of Waterloo '31
 </p>
 
 ---
 
 ### About Me
-- 💻 Learning software engineering
+- 💻 Learning computer science & software development
 - 🚀 Building projects and exploring tech
-- 🎯 Interested in AI, systems, and startups
+- 🎯 Interested in AI/ML, competitive programming, and startups
 
 ### Languages
 Python • Java • C++ • JavaScript
 
 ### Currently
-📚 Preparing for UW CS  
+📚 Preparing for uwaterloo CS  
 ⚡ Working on personal projects
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=angad-batth1" />
