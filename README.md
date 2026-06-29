@@ -1,25 +1,35 @@
-<h1 align="center">Hi, I'm Angad 👋</h1>
+<div align="center">
 
-<p align="center">
-Computer Science student @ University of Waterloo '31
-</p>
+# 👋 Hey, I'm Angad
+
+### 🎓 Computer Science Student @ University of Waterloo  
+### 💻 Building software • Exploring AI • Creating things that matter
+
+<br>
+
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/angad-batth1">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-### About Me
-- 💻 Learning computer science & software development
-- 🚀 Building projects and exploring tech
-- 🎯 Interested in AI/ML, competitive programming, and startups
+## 🧠 About Me
 
-### Languages
-Python • Java • C++ • JavaScript
+```text
+🎓 Incoming CS student at the University of Waterloo
 
-### Currently
-📚 Preparing for uwaterloo CS  
-⚡ Working on personal projects
+🚀 Passionate about software engineering, AI, and building projects
 
-## 📊 GitHub Stats 
+💡 Always learning, experimenting, and improving
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=angad-batth1" />
-</p>
+🌱 Currently preparing for my journey in tech
