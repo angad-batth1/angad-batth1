@@ -4,7 +4,6 @@
 **1A Computer Science @ University of Waterloo**
 
 `AI / ML` ✦ `Competitive Programming` ✦ `Startups`
-
 </div>
 
 <br>
