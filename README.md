@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">Hey, I'm Angad 👋</h1>
 
-<!--
-**angad-batth1/angad-batth1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Incoming Computer Science student @ University of Waterloo
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+- 💻 Learning software engineering
+- 🚀 Building projects and exploring tech
+- 🎯 Interested in AI, systems, and startups
+
+### Languages
+Python • Java • C++ • JavaScript
+
+### Currently
+📚 Preparing for UW CS  
+⚡ Working on personal projects
