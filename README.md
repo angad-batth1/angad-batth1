@@ -23,10 +23,6 @@ I'm obsessed with building things that scale and solving hard problems. I prefer
   <img src="https://img.shields.io/badge/Git-141414?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-<div align="left">
-  <img src="https://github-stats-extended.vercel.app/api?username=angad-batth1&theme=transparent&hide_border=true&show_icons=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="angad-batth1 GitHub stats" height="165" />
-</div>
-
 <br>
 
 <div align="center">
